@@ -25,3 +25,25 @@ This is a simple 3-tier rule engine application that determines user eligibility
 ```bash
 git clone https://github.com/your-username/rule-engine-ast.git
 cd rule-engine-ast
+
+# Real-Time Weather Monitoring System
+
+## Project Description
+This application monitors real-time weather conditions using the OpenWeatherMap API and provides summarized insights using rollups and aggregates. It retrieves weather data for major Indian metros, calculates daily summaries, and triggers alerts based on user-defined thresholds.
+
+## Features
+- **Real-Time Weather Data Retrieval**: Continuously fetches weather data from OpenWeatherMap for cities like Delhi, Mumbai, Chennai, Bangalore, Kolkata, and Hyderabad.
+- **Daily Weather Summary**: Calculates average, maximum, and minimum temperatures for each day, along with the dominant weather condition.
+- **Configurable Alerting**: User-configurable thresholds for temperature or specific weather conditions to trigger alerts.
+
+## Prerequisites
+- Docker
+- Java 11 or above
+- OpenWeatherMap API Key
+
+## Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/weather-monitoring.git
+cd weather-monitoring
