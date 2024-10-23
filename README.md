@@ -21,10 +21,6 @@ This is a simple 3-tier rule engine application that determines user eligibility
 
 ## Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/rule-engine-ast.git
-cd rule-engine-ast
 
 # Real-Time Weather Monitoring System
 
@@ -43,7 +39,7 @@ This application monitors real-time weather conditions using the OpenWeatherMap 
 
 ## Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/weather-monitoring.git
-cd weather-monitoring
+
+
+
+
